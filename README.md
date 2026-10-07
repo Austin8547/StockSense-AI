@@ -59,4 +59,3 @@ streamlit run streamlit_app.py
 5.  **Analysis**: Evaluates the latest market state to provide actionable trading signals.
 
 ---
-*Built with ❤️ for ML Enthusiasts & Traders.*
